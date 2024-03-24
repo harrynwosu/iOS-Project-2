@@ -4,8 +4,6 @@ Submitted by: **Harold Nwosu**
 
 **Wordle Version 2** implements the settings and stretch reset features. 
 
-Time spent: **1.5** hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
